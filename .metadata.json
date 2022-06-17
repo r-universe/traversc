@@ -1,0 +1,14 @@
+[
+  {
+    "package": "glow",
+    "oncran": true
+  },
+  {
+    "package": "qs",
+    "oncran": true
+  },
+  {
+    "package": "stringfish",
+    "oncran": true
+  }
+]
