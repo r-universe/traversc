@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "glow"]
+	path = glow
+	url = https://github.com/traversc/glow
+	shallow = true
+	registered = true
 [submodule "qs"]
 	path = qs
 	url = https://github.com/traversc/qs
@@ -11,10 +16,5 @@
 [submodule "stringfish"]
 	path = stringfish
 	url = https://github.com/traversc/stringfish
-	shallow = true
-	registered = true
-[submodule "glow"]
-	path = glow
-	url = https://github.com/traversc/glow
 	shallow = true
 	registered = true
