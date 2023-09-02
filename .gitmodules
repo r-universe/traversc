@@ -8,6 +8,9 @@
 [submodule "qs"]
 	path = qs
 	url = https://github.com/traversc/qs
+[submodule "seqtrie"]
+	path = seqtrie
+	url = https://github.com/traversc/seqtrie
 [submodule "stringfish"]
 	path = stringfish
 	url = https://github.com/traversc/stringfish
